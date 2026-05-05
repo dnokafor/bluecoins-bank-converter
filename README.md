@@ -9,7 +9,7 @@ The goal is to facilitate personal finance tracking without having to manually e
 ## 🚀 Installation and Requirements
 
 To use these scripts, you need to have **Python 3.x** installed on your computer.
-
+ 
 1. **Download the project** and open a terminal in the repository folder.
 2. **Install the required libraries**:
 
